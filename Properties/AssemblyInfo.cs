@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BlocNotes")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("TextEditorKMJ")]
+[assembly: AssemblyDescription("Editeur de text semblable au BlocNotes de Windows")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BlocNotes")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("JonathanCorporation")]
+[assembly: AssemblyProduct("TextEditorKMJ")]
+[assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

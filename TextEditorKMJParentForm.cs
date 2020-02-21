@@ -773,5 +773,16 @@ namespace TextEditorKMJ
         }
 
         #endregion
+
+        #region About Box
+
+        private void aProposToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TextEditorKMJAboutBox aboutBox = new TextEditorKMJAboutBox();
+
+            aboutBox.ShowDialog();
+        }
+
+        #endregion
     }
 }
