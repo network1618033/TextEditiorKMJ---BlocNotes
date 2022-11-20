@@ -48,7 +48,7 @@ ________________________________________________________________________________
 TextEditorKMJ is an application similar to Windows Notepad.
 It was designed in C # with WinForms.
 
-It allows text editing functions, namely:
+It allows text editing functions like:
 
 
 
@@ -70,4 +70,4 @@ It allows text editing functions, namely:
 
 
 
-This is a Beta version. The final version will be made in the future when time permits.
+This is a Beta version. The final version will be made in the future when I have more time.
